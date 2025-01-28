@@ -1,5 +1,6 @@
 # auto-responsive
-반응형 페이지 자동 생성 Automatic generation of responsive page
+반응형 페이지 자동 생성 Automatic generation of responsive page  
+AI 기반 "HTML/CSS를 자동으로 반응형으로 만들어주는 웹사이트"
 
 ## 목적
 반응형 웹사이트 제작 과정에서 Media Query를 사용하여 다양한 디바이스에 맞는 디자인을 일일이 구현하면서 효율성과 체계적인 작업의 필요성을 느낌  
