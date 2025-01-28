@@ -12,6 +12,7 @@ AI 기반 "HTML/CSS를 자동으로 반응형으로 만들어주는 웹사이트
 - 초기 개발: Node.js만으로 시작하여 OpenAI API 호출과 변환 로직을 단순하게 작성
 - 필요 시 확장: 변환 로직이 복잡해지면 Python을 추가로 도입
 - AI API : OpenAI API(GPT-4)
+- vscode
 
 ## 작업순서
 - 특이사항 : 크롬 우선
